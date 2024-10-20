@@ -1,3 +1,6 @@
+
+# configurar bun en angular
+ng config -g cli.packageManager bun
 # Crear el proyecto host
 ng new host-app --create-application=false
 cd host-app
